@@ -6,9 +6,9 @@ This project focuses on identifying fraudulent activities and predicting key fin
 Fraud remains one of the most significant challenges in financial ecosystems. This project aims to minimize financial losses and protect brand reputation by building a robust pipeline that covers everything from raw data processing to high-performance predictive modeling.
 
 ### Key Objectives:
- **Classification:** Identify whether a transaction is "Fraud" or "Legit".
- **Regression:** Predict continuous variables related to transactions (e.g., amount or risk scores).
- **Feature Engineering:** Enhance model performance through domain-specific data transformations.
+- **Classification:** Identify whether a transaction is "Fraud" or "Legit".
+- **Regression:** Predict continuous variables related to transactions (e.g., amount or risk scores).
+- **Feature Engineering:** Enhance model performance through domain-specific data transformations.
 
 ---
 
