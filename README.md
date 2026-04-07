@@ -16,7 +16,7 @@ Fraud remains one of the most significant challenges in financial ecosystems. Th
 
 ### 1. Exploratory Data Analysis (EDA)
  **Missing Value Handling:** Systematic treatment of null values to maintain data integrity.
- **Statistical Analysis:** * Detailed statistics for `transaction_amount`.
+ **Statistical Analysis:**  Detailed statistics for `transaction_amount`.
     * **Normality Tests:** Assessing `device_change_30d` distribution.
     * **Categorical Tests:** Statistical testing for categorical feature significance.
 
