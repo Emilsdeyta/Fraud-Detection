@@ -2,7 +2,7 @@
 
 This project focuses on identifying fraudulent activities and predicting key financial metrics using advanced Machine Learning techniques. By combining **Classification** and **Regression** models, the system not only flags suspicious transactions but also provides quantitative insights into fraud-related data.
 
-## 📌 Project Overview
+##  Project Overview
 Fraud remains one of the most significant challenges in financial ecosystems. This project aims to minimize financial losses and protect brand reputation by building a robust pipeline that covers everything from raw data processing to high-performance predictive modeling.
 
 ### Key Objectives:
