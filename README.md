@@ -12,7 +12,7 @@ Fraud remains one of the most significant challenges in financial ecosystems. Th
 
 ---
 
-## 🛠 Tech Stack & Workflow
+##  Tech Stack & Workflow
 
 ### 1. Exploratory Data Analysis (EDA)
  **Missing Value Handling:** Systematic treatment of null values to maintain data integrity.
@@ -42,7 +42,7 @@ We implemented a wide range of algorithms to compare performance across differen
 
 ---
 
-## 📊 Performance Results
+##  Performance Results
 
 After extensive testing and hyperparameter tuning, the following models demonstrated the highest performance:
 
